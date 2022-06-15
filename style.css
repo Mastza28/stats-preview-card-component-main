@@ -1,0 +1,106 @@
+
+html {
+    background-color: hsl(233, 47%, 7%);
+    color: hsla(0, 0%, 100%, 0.90);
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+footer {
+    background-color: hsl(277, 89%, 41%);
+    color: hsla(0, 0%, 100%, .80);
+    margin-top: 100px;
+}
+
+footer a {
+    color: whitesmoke;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    max-width: 800px;
+    height: 330px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 10px;
+}
+
+.insights {
+    color: hsl(277, 64%, 61%);
+}
+
+.para {
+    grid-area: auto;
+    padding: 40px;
+}
+
+.disc {
+    color: hsla(0, 0%, 100%, 0.50);
+    line-height: 22px;
+}
+
+.stats {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 20px;
+    color: hsla(0, 0%, 100%, 0.50);
+}
+
+.comp {
+    display: flex;
+    flex-direction: column;
+}
+
+.temp {
+    display: flex;
+    flex-direction: column;
+}
+
+.queries {
+    display: flex;
+    flex-direction: column;
+}
+
+.num {
+    font-weight: 700;
+    color: hsla(0, 0%, 100%, .90);
+    font-size: 20px;
+}
+
+
+.img {
+    background: url(images/image-header-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 0 10px 10px 0;
+}
+
+.overlay {
+    background-color: rgba(104, 5, 166, 0.6);
+    width: 400px;
+    height: 330px;
+    border-radius: 0 10px 10px 0;
+}
+
+@media screen and (max-width: 800px) {
+    .card {
+        flex-direction: column;
+        max-width: 400px;
+    }
+}
+
+
+
+
+
+
+
