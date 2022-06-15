@@ -23,7 +23,7 @@ Solution
 
 ### Links
 
-- Live Site URL: [Mastza28 Stats Preview Card](https://your-live-site-url.com)
+- Live Site URL: [Mastza28 Stats Preview Card]([https://your-live-site-url.com](https://mastza28.github.io/stats-preview-card-component-main/))
 
 
 ### Author
