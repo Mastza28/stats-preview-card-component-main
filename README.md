@@ -21,7 +21,7 @@ Solution
 ![](images/Home-Page.JPG)
 
 
-###Links
+### Links
 
 - Live Site URL: [Mastza28 Stats Preview Card](https://your-live-site-url.com)
 
